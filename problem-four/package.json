@@ -1,0 +1,13 @@
+{
+  "name": "problem-four",
+  "version": "1.0.0",
+  "description": "Three (plus a few) implementations of sum_to_n in TypeScript.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22.6"
+  },
+  "scripts": {
+    "start": "node benchmark.ts"
+  }
+}
